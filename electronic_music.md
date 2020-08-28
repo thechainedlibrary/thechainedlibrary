@@ -1,5 +1,10 @@
 Electronic Music
 -----------------------
+- 1964
+- Moog, Robert
+- [Voltage-Controlled Electronic Music Modules](https://file.io/6wtPu8mtKoKG)
+- 16th Annual Meeting of the AES, 12-16 October 1964.
+-----------------------
 - 1966
 - von Foerster, Heinz; Beauchamp, James
 - [Music By Computer](https://file.io/sFKzs8VhS2jG)
@@ -34,6 +39,11 @@ Electronic Music
 - Puckette, Miller
 - [Theories and Techniques of Electronic Music](https://file.io/5vAFPhb42KHH)
 - Each chapter starts with a theoretical description of one technique or problem area and ends with a series of working examples (over 100 in all), covering a wide range of applications. A unifying approach is taken throughout; chapter two, for example, treats both sampling and wavetable synthesis as special cases of one underlying technique. Although the theory is presented quantitatively, the mathematics used goes no further than trigonometry and complex numbers. The examples and supported software along with a machine-readable version of the text are available on the web and maintained by a large online community. The Theory and Techniques of Electronic Music is valuable both as a textbook and as professional reading for electronic musicians and computer music researchers.
+-----------------------
+- 2006
+- Kelly, Caleb
+- [Cracked Media: The Sound of Malfunction](https://file.io/pZ4Vvw7Zsc80)
+- From the mid-twentieth century into the twenty-first, artists and musicians manipulated, cracked, and broke audio media technologies to produce novel sounds and performances. Artists and musicians, including John Cage, Nam June Paik, Yasunao Tone, and Oval, pulled apart both playback devices (phonographs and compact disc players) and the recorded media (vinyl records and compact discs) to create an extended sound palette. In Cracked Media, Caleb Kelly explores how the deliberate utilization of the normally undesirable (a crack, a break) has become the site of productive creation. Cracked media, Kelly writes, slides across disciplines, through music, sound, and noise. Cracked media encompasses everything from Cage's silences and indeterminacies, to Paik's often humorous tape works, to the cold and clean sounds of digital glitch in the work of Tone and Oval. Kelly offers a detailed historical account of these practices, arguing that they can be read as precursors to contemporary new media. Kelly looks at the nature of recording technology and the music industry in relation to the crack and the break, and discusses the various manifestations of noise, concluding that neither theories of recording nor theories of noise offer an adequate framework for understanding cracked media. Connecting the historical avant-garde to modern-day turntablism, and predigital destructive techniques to the digital ticks, pops, and clicks of the glitch, Kelly proposes new media theorizations of cracked media that focus on materiality and the everyday.
 -----------------------
 - 2012
 - Peters, Deniz; Eckel, Gerhard; Dorschel, Andreas
