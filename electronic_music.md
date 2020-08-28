@@ -1,0 +1,17 @@
+Electronic Music
+-----------------------
+- 1972
+- Oram, Daphne
+- [An Individual Note: of Music, Sound, and Electronics](https://file.io/lUzFcKrRVp00)
+- ‘An Individual Note’ is both curious and remarkable. When commissioned to write a book, Oram was keen to avoid it becoming a manual or how-to guide, preferring instead to use the opportunity to muse on the subjects of music, sound, and electronics, and the relationships between them. At a time when the world was just starting to engage with electronic music and the technology was still primarily in the hands of music studios, universities, and corporations, her approach was both innovative and inspiring, encouraging anyone with an interest in music to think about the nature, capabilities, and possibilities that the new sounds could bring. And her thinking was not limited to just the future of the orchestra, synthesizer, computer, and home studio, but ventured, with great spirit and wit, into other realms of science, technology, culture, and thought. ‘An Individual Note’ is a playful yet compelling manifesto for the dawn of electronic music and for our individual capacity to use, experience, and enjoy it.
+-----------------------
+- 2004
+- Roads, Curtis
+- [Microsound](https://file.io/8Ybfu1mPE88y)
+- Below the level of the musical note lies the realm of microsound, of sound particles lasting less than one-tenth of a second. Recent technological advances allow us to probe and manipulate these pinpoints of sound, dissolving the traditional building blocks of music—notes and their intervals—into a more fluid and supple medium. The sensations of point, pulse (series of points), line (tone), and surface (texture) emerge as particle density increases. Sounds coalesce, evaporate, and mutate into other sounds... Covering all aspects of composition with sound particles, Microsound offers composition theory, historical accounts, technical overviews, acoustical experiments, descriptions of musical works, and aesthetic reflections.
+-----------------------
+- 2006
+- Puckette, Miller
+- [Theories and Techniques of Electronic Music](https://file.io/5vAFPhb42KHH)
+- Each chapter starts with a theoretical description of one technique or problem area and ends with a series of working examples (over 100 in all), covering a wide range of applications. A unifying approach is taken throughout; chapter two, for example, treats both sampling and wavetable synthesis as special cases of one underlying technique. Although the theory is presented quantitatively, the mathematics used goes no further than trigonometry and complex numbers. The examples and supported software along with a machine-readable version of the text are available on the web and maintained by a large online community. The Theory and Techniques of Electronic Music is valuable both as a textbook and as professional reading for electronic musicians and computer music researchers.
+-----------------------
