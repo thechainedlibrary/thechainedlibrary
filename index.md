@@ -1,5 +1,5 @@
 ### The Chained Library
 
-Welcome to [thechainedlibrary.github.io](The Chained Library), a library for the arts, humanities and technology.
+Welcome to [The Chained Library](thechainedlibrary.github.io), a library for the arts, humanities and technology.
 
 
