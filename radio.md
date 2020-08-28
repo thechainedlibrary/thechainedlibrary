@@ -1,5 +1,10 @@
 ### Radio
 -----------------
+- 1994
+- Crissell, Andrew
+- [Understanding Radio (2nd edition)](https://file.io/y8xtSW9TOAzI)
+- Understanding Radio is a fully revised edition of a key radio textbook. Andrew Crisell explores how radio processes genres such as news, drama and comedy in highly distinctive ways, and how the listener's use of the medium has important implications for audience studies. He explains why the sound medium, even more than television, has played such a crucial role in the development of modern popular culture.
+-----------------
 - 2001
 - Weiss, Allen S.
 - [Experimental Sound & Radio](https://file.io/4Z654jiuHYIv)
