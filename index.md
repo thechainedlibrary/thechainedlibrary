@@ -4,13 +4,13 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Matt Bellingham</title>
+  <title>The Chained Library</title>
 </head>
 <body>
-  <h1>Matt Bellingham</h1>
+  <h1>The Chained Library</h1>
   <div class="h-card">
     <p>
-      Hi, my name is <span class="p-name">Matt Bellingham</span>.
+      Welcome to <span class="p-name">The Chained Library</span>.
     </p>
     
     <a class="h-card" href="https://mattbellingham.com">
