@@ -1,7 +1,43 @@
-The Chained Library
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-Welcome to The Chained Library, a library for the arts, humanities and technology. 
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>thechainedlibrary.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="thechainedlibrary.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://thechainedlibrary.github.io/" />
+<meta property="og:url" content="https://thechainedlibrary.github.io/" />
+<meta property="og:site_name" content="thechainedlibrary.github.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"thechainedlibrary.github.io","url":"https://thechainedlibrary.github.io/","name":"thechainedlibrary.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-![](https://farm2.static.flickr.com/1846/42938380890_3142c8de3b.jpg)
+    <link rel="stylesheet" href="/assets/css/style.css?v=9a9712271408ea39b602445017ffbc0e63f0191b">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://thechainedlibrary.github.io/">thechainedlibrary.github.io</a></h1>
+      
 
-This page shows the latest additions to the website below:
+      <p>The Chained Library</p>
+
+<p>Welcome to The Chained Library, a library for the arts, humanities and technology.</p>
+
+<p><img src="https://farm2.static.flickr.com/1846/42938380890_3142c8de3b.jpg" alt="" /></p>
+
+<p>This page shows the latest additions to the website below:</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
