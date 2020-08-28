@@ -5,5 +5,9 @@
 - [Experimental Sound & Radio](https://file.io/4Z654jiuHYIv)
 - There is no single entity that constitutes “radio”; rather, there exists a multitude of radios. Radiophony is a heterogeneous domain, on the levels of its apparatus, its practice, its forms, and its utopias. He proposes, new use of the voice that harkens back to Antonin Artaud’s own transformation of the vocal arts, as manifested in his radiophonic To Have Done with the Judgment of God. Certainly apparent in the productions of Novarina’s own theatre, there are indeed also radiophonic works that instantiate this recorporealization of the human voice, all the while achieving a disquieting grafting of mechanical, electric, and electronic possibilities onto the strictly human potentials of sound recording and transmission—an artificial transmogrification of respiratory patterns and vocal intonations.
 -----------------
+- 2007
+- Santoso
+- [Waves of freedom: radio news agency KBR 68H. Jakarta, Indonesia: KBR 68H](https://file.io/GHr2MaaFQfNi)
+- This book is a brief history of Radio News Agency KBR68H in Indonesia.
 -----------------
 -----------------
