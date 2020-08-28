@@ -11,3 +11,5 @@ Areas of the library currently include:
 * TBC
 * TBC
 * TBC
+
+Texts are ordered by date of publication so as to give an idea of how the area has evolved over time.
