@@ -7,7 +7,7 @@ Welcome to [The Chained Library](thechainedlibrary.github.io), a library for the
 Areas of the library currently include:
 
 * [Cinema](https://github.com/thechainedlibrary/thechainedlibrary.github.io/blob/master/cinema.md)
-* TBC
+* [Electronic Music](https://github.com/thechainedlibrary/thechainedlibrary.github.io/blob/master/electronic_music.md)
 * TBC
 * TBC
 * TBC
