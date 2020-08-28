@@ -10,6 +10,11 @@ Electronic Music
 - [An Individual Note: of Music, Sound, and Electronics](https://file.io/lUzFcKrRVp00)
 - ‘An Individual Note’ is both curious and remarkable. When commissioned to write a book, Oram was keen to avoid it becoming a manual or how-to guide, preferring instead to use the opportunity to muse on the subjects of music, sound, and electronics, and the relationships between them. At a time when the world was just starting to engage with electronic music and the technology was still primarily in the hands of music studios, universities, and corporations, her approach was both innovative and inspiring, encouraging anyone with an interest in music to think about the nature, capabilities, and possibilities that the new sounds could bring. And her thinking was not limited to just the future of the orchestra, synthesizer, computer, and home studio, but ventured, with great spirit and wit, into other realms of science, technology, culture, and thought. ‘An Individual Note’ is a playful yet compelling manifesto for the dawn of electronic music and for our individual capacity to use, experience, and enjoy it.
 -----------------------
+- 2001
+- Cascone, Kim
+- [The Aesthetics of Failure: 'Post-Digital' Tendencies in Contemporary Computer Music](https://file.io/5oMwGLjOX2el)
+- Computer Music Journal 24:4 (Winter 2002)
+-----------------------
 - 2004
 - Roads, Curtis
 - [Microsound](https://file.io/8Ybfu1mPE88y)
