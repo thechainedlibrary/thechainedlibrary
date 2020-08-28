@@ -1,5 +1,10 @@
 Electronic Music
 -----------------------
+- 1966
+- von Foerster, Heinz; Beauchamp, James
+- [Music By Computer](https://file.io/sFKzs8VhS2jG)
+- Since the electronic computer was invented, its usefulness to society has been limited more by the imagination of man than by the capability of the hardware. The possibility of a computer creating music, art, or literature is perhaps obscure only because our pride forces us to believe these areas are man's exclusive provinces. The 1966 Fall Joint Computer Conference scheduled a highly creative, imaginative and enjoyable session on Computers in Music... The papers read there form the basis of this book, and focus on three aspects of the use of computers in generating music. First, computer hardware and software for implementing the generation of sounds are discussed under the heading Systems and Programs. Second, the versatility of digital computers in exploring rules of succession and synchronism is demonstrated in the section, Composition. Finally, the problem of judgment entering perception - i.e., what is "beautiful" and what is "ugly," or to put it into information theoretical terms, what distinguishes signal from noise - is taken up in the section Aesthetics. At the end of the book, the reader may turn into a listener. A pocket of the back cover contains four high-fidelity records of all the examples mentioned in the text, which allows the testing of the presented theories by skeptics and enthusiasts alike.
+-----------------------
 - 1972
 - Oram, Daphne
 - [An Individual Note: of Music, Sound, and Electronics](https://file.io/lUzFcKrRVp00)
@@ -24,6 +29,11 @@ Electronic Music
 - Puckette, Miller
 - [Theories and Techniques of Electronic Music](https://file.io/5vAFPhb42KHH)
 - Each chapter starts with a theoretical description of one technique or problem area and ends with a series of working examples (over 100 in all), covering a wide range of applications. A unifying approach is taken throughout; chapter two, for example, treats both sampling and wavetable synthesis as special cases of one underlying technique. Although the theory is presented quantitatively, the mathematics used goes no further than trigonometry and complex numbers. The examples and supported software along with a machine-readable version of the text are available on the web and maintained by a large online community. The Theory and Techniques of Electronic Music is valuable both as a textbook and as professional reading for electronic musicians and computer music researchers.
+-----------------------
+- 2012
+- Peters, Deniz; Eckel, Gerhard; Dorschel, Andreas
+- [Bodily Expression in Electronic Music: Perspectives on Reclaiming Performativity]()
+- The book explores the relationship between electronic music and bodily expression from perspectives including aesthetics, philosophy of mind, phenomenology, dance and interactive performance arts, sociology, computer music and sonic arts, and music theory, transgressing disciplinary boundaries and established beliefs.
 -----------------------
 - 2013
 - Bartee, Jordan
