@@ -1,9 +1,13 @@
 #### Cinema
 -------------------------
-- Gene Youngblood
+- 1970
+- Youngblood, Gene
 - [Expanded Cinema](https://file.io/DOtzCj9jo5Qo)
 - E P Dutton
-- 1970
 -------------------------
+- 2014
+- Andrew, Dudley; Bazin, André
+- [André Bazin's new media](https://file.io/8OoEzBCd4OYj)
+- University of California Press
 -------------------------
 -------------------------
