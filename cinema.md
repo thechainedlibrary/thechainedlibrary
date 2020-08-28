@@ -12,10 +12,10 @@
 -------------------------
 - 1967
 - Bazin, André
-- [Andre Bazin - What Is Cinema Volume 1](https://file.io/r8iWeD0WYI6e)
+- [What Is Cinema Volume 1](https://file.io/r8iWeD0WYI6e)
 - André Bazin's What Is Cinema? (volumes I and II) have been classics of film studies for as long as they've been available and are considered the gold standard in the field of film criticism. Although Bazin made no films, his name has been one of the most important in French cinema since World War II. He was co-founder of the influential Cahiers du Cinéma, which under his leadership became one of the world's most distinguished publications. Championing the films of Jean Renoir (who contributed a short foreword to Volume I), Orson Welles, and Roberto Rossellini, he became the protégé of François Truffaut, who honors him touchingly in his forword to Volume II. This new edition includes graceful forewords to each volume by Bazin scholar and biographer Dudley Andrew, who reconsiders Bazin and his place in contemporary film study. The essays themselves are erudite but always accessible, intellectual, and stimulating. As Renoir puts it, the essays of Bazin "will survive even if the cinema does not."
 -------------------------
 - 1972
 - Bazin, André
-- [Andre Bazin - What Is Cinema Volume 2](https://file.io/gxaZUzGZgRym)
+- [What Is Cinema Volume 2](https://file.io/gxaZUzGZgRym)
 - André Bazin's What Is Cinema? (volumes I and II) have been classics of film studies for as long as they've been available and are considered the gold standard in the field of film criticism. Although Bazin made no films, his name has been one of the most important in French cinema since World War II. He was co-founder of the influential Cahiers du Cinéma, which under his leadership became one of the world's most distinguished publications. Championing the films of Jean Renoir (who contributed a short foreword to Volume I), Orson Welles, and Roberto Rossellini, he became the protégé of François Truffaut, who honors him touchingly in his forword to Volume II. This new edition includes graceful forewords to each volume by Bazin scholar and biographer Dudley Andrew, who reconsiders Bazin and his place in contemporary film study. The essays themselves are erudite but always accessible, intellectual, and stimulating. As Renoir puts it, the essays of Bazin "will survive even if the cinema does not."
