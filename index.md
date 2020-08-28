@@ -6,7 +6,7 @@ Welcome to [The Chained Library](thechainedlibrary.github.io), a library for the
 
 Areas of the library include:
 
-* Cinema
+* [Cinema](https://github.com/thechainedlibrary/thechainedlibrary.github.io/blob/master/cinema.md)
 * TBC
 * TBC
 * TBC
